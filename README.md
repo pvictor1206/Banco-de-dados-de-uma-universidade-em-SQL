@@ -1,4 +1,4 @@
-# Sistema de Controle de Estoque em Java
+# Banco de dados de uma universidade em SQL
 
 Este projeto envolve a elaboração de um diagrama entidade-relacionamento (DER) para ilustrar as entidades, atributos e relacionamentos envolvidos no domínio acadêmico.
 
